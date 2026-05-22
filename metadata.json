@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Nông Sản",
+  "description": "Sổ tay ghi chép thu hoạch nông sản chuyên nghiệp cho nông trại DThanh Farm, tích hợp Lịch Âm Việt Nam, thống kê doanh thu và báo cáo vụ mùa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
